@@ -5,7 +5,7 @@ AutoMatch is a simple tool to automatically accept match invitations in League o
 ## Installation and Usage
 
 ### Step 1: Download the AutoMatch.exe File
-- Go to the "Releases" section and download the **AutoMatch.exe** file.
+- Go to the "Releases" section or https://github.com/aipit2/Auto-Match-LoL and download the **AutoMatch.exe** file.
 
 ### Step 2: Open AutoMatch.exe
 - Double-click the **AutoMatch.exe** file to launch the application. Once open, the software will automatically start accepting any incoming match invitations.
